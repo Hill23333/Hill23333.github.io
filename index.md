@@ -4,6 +4,8 @@
 
 这是一个我的世界RealTrainMod服务器。
 
+<img src="/picture/XLWorld_0001.png" width="100%">
+
 <a href="/XLWorld/about.html">点击这里查看更多信息...</a>
 
 # MMCL (Mutiplayer Minecraft Launcher)
