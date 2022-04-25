@@ -12,6 +12,6 @@
 
 请到QQ群里的“群文件”下载。
 
-# MMCL (Mutiplayer Minecraft Launher)
+# MMCL (Mutiplayer Minecraft Launcher)
 
 开发中...
