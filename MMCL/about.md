@@ -1,3 +1,5 @@
+## <a href="/">返回主页</a>
+
 # MMCL (Mutiplayer Minecraft Launcher) 介绍
 
 这是一个致力于改善多人游戏问题的Minecraft启动器。
