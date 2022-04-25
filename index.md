@@ -14,4 +14,6 @@
 
 # MMCL (Mutiplayer Minecraft Launcher)
 
-开发中...
+这是一个致力于改善多人游戏问题的Minecraft启动器。
+
+<a href="/MMCL/about.html">点击这里查看更多信息...</a>
