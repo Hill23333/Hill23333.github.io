@@ -6,14 +6,6 @@
 
 <a href="/XLWorld/about.html">点击这里查看更多信息...</a>
 
-### 如何加入？
-
-加入我们的QQ群：985541349
-
-### 客户端在哪里？
-
-请到QQ群里的“群文件”下载。
-
 # MMCL (Mutiplayer Minecraft Launcher)
 
 这是一个致力于改善多人游戏问题的Minecraft启动器。
