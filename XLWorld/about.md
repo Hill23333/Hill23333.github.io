@@ -2,6 +2,8 @@
 
 这是一个我的世界RealTrainMod服务器。
 
+<img src = 'https://s3.bmp.ovh/imgs/2022/04/25/2b00aab8c14dd68d.png' >
+
 ### 如何加入？
 
 加入我们的QQ群：985541349
