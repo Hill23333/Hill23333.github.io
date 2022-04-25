@@ -4,6 +4,8 @@
 
 这是一个我的世界RealTrainMod服务器。
 
+<a href="/XLWorld/about.html">点击这里查看更多信息...</a>
+
 ### 如何加入？
 
 加入我们的QQ群：985541349
