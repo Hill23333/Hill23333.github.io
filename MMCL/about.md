@@ -1,6 +1,6 @@
 # MMCL (Mutiplayer Minecraft Launcher) 介绍
 
-这是一个致力于改善多人游戏问题的Minecraft启动器。
+这是一个致力于改善多人游戏问题的Minecraft启动器。由Hill233制作。
 
 ### 更新日志
 
