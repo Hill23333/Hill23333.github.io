@@ -4,4 +4,6 @@
 
 <a href="/article/0002.html">如何创建自己的主页？</a>
 
+<a href="/article/0003.html">GTAOL 《合约》 全歌曲</a>
+
 # <a href="/">返回主页</a>
