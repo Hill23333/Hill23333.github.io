@@ -8,7 +8,7 @@
 
 这是一个我的世界RealTrainMod服务器。
 
-<img src = 'https://s3.bmp.ovh/imgs/2022/04/25/2b00aab8c14dd68d.png' >
+<img src = '/picture/XLWorld_0001.png' >
 <a href="/XLWorld/about.html">点击这里查看更多信息...</a>
 
 # MMCL (Mutiplayer Minecraft Launcher)
