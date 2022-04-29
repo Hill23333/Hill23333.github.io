@@ -8,4 +8,6 @@
 
 <a href="/article/0004.html">最新别惹德瑞方法</a>
 
+<a href="/article/0005.html">如何快速截图？</a>
+
 # <a href="/">返回主页</a>
